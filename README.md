@@ -1,5 +1,5 @@
 # CIS25-11-2-2026-AI_Assisted_Programming
-Lecture of 11/2/2026: AI-Assisted Programming
+11/2/2026: AI-Assisted Programming
 
 ## Tic-tac-toe
 
